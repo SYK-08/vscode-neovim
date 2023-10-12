@@ -1,5 +1,17 @@
 # Change Log
 
+## [0.10.0](https://github.com/vscode-neovim/vscode-neovim/compare/v0.9.0...v0.10.0) (2023-10-12)
+
+
+### Features
+
+* Add option `statusLineSeparator` ([#1521](https://github.com/vscode-neovim/vscode-neovim/issues/1521)) ([374d72f](https://github.com/vscode-neovim/vscode-neovim/commit/374d72f106ad685a63dc63709355778a2aeacc5b))
+
+
+### Bug Fixes
+
+* properly set the client info ([c0422ef](https://github.com/vscode-neovim/vscode-neovim/commit/c0422efbf9cb0ee59989f7e7d52435019b8182a5))
+
 ## [0.9.0](https://github.com/vscode-neovim/vscode-neovim/compare/v0.8.3...v0.9.0) (2023-10-10)
 
 
